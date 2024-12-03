@@ -26,5 +26,5 @@ pip install pytest
 Запуск
 
 ```bash
-pytest -s --alluredir allure-results mazila.py
+python -m pytest D:\allure-report-main\mazila.py -s --alluredir=allure-results
 ```
