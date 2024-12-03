@@ -28,11 +28,3 @@ pip install pytest
 ```bash
 pytest -s --alluredir allure-results mazila.py
 ```
-
-## Скриншоты
-| Главная страница | Дополнение |
-|----------------------|------------------------|
-|![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/8fb65d3b-d361-4729-beec-57f57568eaba) |![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/3aa7ecb8-36b8-4e85-89c5-ad0819c7cef9)
-"# testing" 
-"# testing" 
-"# testering" 
